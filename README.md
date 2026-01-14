@@ -103,7 +103,9 @@ This portfolio supports my career trajectory into **Data Analytics, Marketing An
 ## 📫 Contact
 
 **Carlos Munoz**
+
 💼 [LinkedIn](https://www.linkedin.com/in/carlos-m27/)
+
 📧 [mnzcrls15@gmail.com](mailto:mnzcrls15@gmail.com)
 
 ---
